@@ -29,5 +29,5 @@ int main(){
 
     /*****************************************/
      // recursion is not good at all times as same function is called a lot of times 
-     // iterative more prefered than recursion till my knowledge
+     // iterative more prefered than recursion till my knowledge.
 }
